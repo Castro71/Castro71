@@ -1,4 +1,4 @@
-## Oiii eu sou o Kaik Castro, Dev FrontEnd!
+## Oiii eu sou o Gabriel Castro, Dev FrontEnd!
 <div align="center">
   <a href="https://github.com/Castro71">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=castro71&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
